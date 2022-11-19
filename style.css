@@ -1,6 +1,7 @@
    body {background-color: #111111;}
     :root {
-      font-family: "Courier New", monospace;
+      font-family: "Roboto Mono", monospace;
+      src: url(fonts/Roboto Mono Nerd Font Complete.ttf)
     }
     h1 {
       color: white;
@@ -16,7 +17,7 @@
     a {
       text-decoration: none;
       color: white;
-      font-size: 24px;
+      font-size: 18px;
     }
     a:hover {
       text-decoration: underline;
@@ -35,6 +36,7 @@
       padding: 14px 16px;
       text-decoration: none;
       font-size: 17px;
+      top: 0px;
     }
 
     /* Change the color of links on hover */
